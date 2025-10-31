@@ -35,6 +35,20 @@ O simulador é escrito em Java e não requer bibliotecas externas.
     java -cp . Simulador
     ```
 
+#### **OBS**: caso tenha dificuldade de rodar com o código acima, tente:
+
+    para compilar:
+
+      ```bash
+    javac -encoding UTF-8 *.java
+    ```
+
+    para rodar o main:
+
+    ```bash
+    java Simulador
+    ```
+
 5.  O _trace_ completo de cada algoritmo será impresso no terminal, seguido por um resumo comparativo das faltas de página no final.
 
 ### Alterando os Parâmetros
