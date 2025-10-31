@@ -32,7 +32,7 @@ O simulador é escrito em Java e não requer bibliotecas externas.
 4.  **Execute** a classe principal `Simulador`:
 
     ```bash
-    java Simulador
+    java -cp . Simulador
     ```
 
 5.  O _trace_ completo de cada algoritmo será impresso no terminal, seguido por um resumo comparativo das faltas de página no final.
